@@ -1,0 +1,19 @@
+#centralize {
+    margin : 0 auto;
+}
+#containerLogin {
+
+    position: absolute;
+    top: 40%;
+    width: 100vw;
+}
+
+body {
+    height: 100vh;
+    background-image:linear-gradient(45deg, #203d7c, #448dff);
+
+}
+
+#formShadow {
+    box-shadow: 6px -3px 20px 5px  #00000099;
+}
