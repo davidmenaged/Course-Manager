@@ -1,5 +1,6 @@
 #centralize {
     margin : 0 auto;
+    max-width: 540px !important;
 }
 #containerLogin {
 

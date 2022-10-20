@@ -9,3 +9,5 @@
     <title>Choose Courses</title>
     <link href="../css/bootstrap.css" rel="stylesheet" />
     <link href="../css/login.css" rel="stylesheet"/>
+</head>
+<body>

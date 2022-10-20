@@ -22,7 +22,7 @@
 <!--        </div>-->
 <!--        <hr>-->
 <!--    </div>-->
-    <div class="container text-center">
+    <div class="container text-nowrap">
         <div class="row ">
             <div class="col-md-8 col-sm-6 col-xs-12">
                 <p class="copyright-text">Copyright © 2022 Absolutely No Rights Reserved
