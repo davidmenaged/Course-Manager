@@ -11,3 +11,4 @@
     <link href="../css/login.css" rel="stylesheet"/>
 </head>
 <body>
+<?php include "../templates/Menu.php"; ?>

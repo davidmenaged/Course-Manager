@@ -1,5 +1,4 @@
 <?php include "../templates/Header.php"; ?>
-<?php include "../templates/Menu.php"; ?>
     <div class = "container-fluid px-4" id="containerLogin">
         <div class= "" id="centralize">
             <form>
@@ -22,6 +21,4 @@
                 </form>
         </div>
     </div>
-
-
 <?php include "../templates/Footer.php"; ?>

@@ -18,3 +18,11 @@ body {
 #formShadow {
     box-shadow: 6px -3px 20px 5px  #00000099;
 }
+
+.navbar ul li a {
+    color: #ffffff;
+}
+.navbar ul li a:hover {
+    background-color: #448dff;
+    color: #203d50;
+    }
