@@ -5,11 +5,13 @@ session_start();
 $signedIn = $_SESSION['LoggedIn'];
 
 if($signedIn){
-Hello  <?php echo $_COOKIE['user'];<br>
+echo "Hello " . $_COOKIE['user'];
 }
+
 else{
-<a href="login.php">Back to login</a>
+echo "<a href='login.php'>Back to login</a>";
 }
 ?>
+
 </body>
 </html>
